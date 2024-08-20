@@ -58,13 +58,9 @@ HuskyLens is an easy-to-use AI machine vision sensor with 7 built-in functions: 
  
 <img src="https://github.com/user-attachments/assets/a4175533-71c1-4180-9129-70aec1d0c30e" width="400" height="400">  
 
-<img src="https://github.com/user-attachments/assets/2ecd90ad-a971-4da3-87b7-9721d8516f7f" width="400" height="400">   
+<img src="https://github.com/user-attachments/assets/2ecd90ad-a971-4da3-87b7-9721d8516f7f" width="400" height="400">     
 
-<img src="https://github.com/user-attachments/assets/f7acc433-30ca-483c-b299-d0e1a516ae1e" width="400" height="400">  
-
-<img src="https://github.com/user-attachments/assets/004d9d6a-8227-4cc4-b591-37eef4dea4d2" width="400" height="400">  
-
-<img src="https://github.com/user-attachments/assets/b3b7e61a-4e5d-4d7a-b52e-a933800014d1" width="400" height="400">  
+<img src="https://github.com/user-attachments/assets/004d9d6a-8227-4cc4-b591-37eef4dea4d2" width="400" height="400">   
 
 <img src="https://github.com/user-attachments/assets/378dfcb2-edda-4874-8237-266501e90e7b" width="400" height="400">  
 
